@@ -1,0 +1,9 @@
+E:\VSProjects\CloudBuild\CloudBuild.Service\bin\Debug\netstandard2.0\CloudBuild.Service.deps.json
+E:\VSProjects\CloudBuild\CloudBuild.Service\bin\Debug\netstandard2.0\CloudBuild.Service.dll
+E:\VSProjects\CloudBuild\CloudBuild.Service\bin\Debug\netstandard2.0\CloudBuild.Service.pdb
+E:\VSProjects\CloudBuild\CloudBuild.Service\obj\Debug\netstandard2.0\CloudBuild.Service.csprojAssemblyReference.cache
+E:\VSProjects\CloudBuild\CloudBuild.Service\obj\Debug\netstandard2.0\CloudBuild.Service.csproj.CoreCompileInputs.cache
+E:\VSProjects\CloudBuild\CloudBuild.Service\obj\Debug\netstandard2.0\CloudBuild.Service.AssemblyInfoInputs.cache
+E:\VSProjects\CloudBuild\CloudBuild.Service\obj\Debug\netstandard2.0\CloudBuild.Service.AssemblyInfo.cs
+E:\VSProjects\CloudBuild\CloudBuild.Service\obj\Debug\netstandard2.0\CloudBuild.Service.dll
+E:\VSProjects\CloudBuild\CloudBuild.Service\obj\Debug\netstandard2.0\CloudBuild.Service.pdb
