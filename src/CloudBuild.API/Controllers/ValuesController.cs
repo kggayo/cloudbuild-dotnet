@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using CloudBuild.Service;
 using Microsoft.AspNetCore.Mvc;
 
 namespace CloudBuild.Controllers
@@ -10,18 +11,20 @@ namespace CloudBuild.Controllers
     [ApiController]
     public class ValuesController : ControllerBase
     {
+        ValueService valueService = new ValueService();
+
         // GET api/values
         [HttpGet]
         public ActionResult<IEnumerable<string>> Get()
         {
-            return new string[] { "value1", "value2" };
+            return valueService.GetValues().ToList();
         }
 
         // GET api/values/5
         [HttpGet("{id}")]
         public ActionResult<string> Get(int id)
         {
-            return "value";
+            return "value: " + id;
         }
 
         // POST api/values
